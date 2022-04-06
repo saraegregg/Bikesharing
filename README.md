@@ -32,12 +32,21 @@ Continue to develop your analysis and visualizations by completing the following
 Below are screenshots of my Tableau story analysis, which is linked [here](https://public.tableau.com/views/NYCCitiBikeAugustAnalysis_16492034190480/NYCCitiBikeAugustAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link).
 ## NYC Citi Bike Analysis Screenshots: 
 
-![NYC City Bike Starting Locations: Grouping of all trip starting locations](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p1.png)
+NYC City Bike Starting Locations: Grouping of all trip starting locations
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p1.png)
 
-![Customer Type: 2.3 million rides in the month of August 2019 with 81% of riders using subscription.](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p2.png)
+Customer Type: 2.3 million rides in the month of August 2019 with 81% of riders using subscription
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p2.png)
 
+Highest traffic hours are from four pm through 7 pm
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p3.png)
 
+
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p4.png)
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p5.png)
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p6.png)
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p7.png)
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p8.png)
 
 
 
