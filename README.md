@@ -29,15 +29,15 @@ Continue to develop your analysis and visualizations by completing the following
 - Visual Studio Code 1.63.2
 
 ### Challenge Results
-Below are screenshots of my Tableau story analysis, which is linked [here]. (https://public.tableau.com/views/NYCCitiBikeAugustAnalysis_16492034190480/NYCCitiBikeAugustAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+Below are screenshots of my Tableau story analysis, which is linked [here] (https://public.tableau.com/views/NYCCitiBikeAugustAnalysis_16492034190480/NYCCitiBikeAugustAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## NYC Citi Bike Analysis Screenshots: 
 
-![NYC City Bike Starting Locations: Grouping of all trip starting locations](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/streetmap.png)
+![NYC City Bike Starting Locations: Grouping of all trip starting locations](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p1.png)
 
-![Customer Type: 2.3 million rides in the month of August 2019 with 81% of riders using subscription.](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/satellitemap.png)
+![Customer Type: 2.3 million rides in the month of August 2019 with 81% of riders using subscription.](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p2.png)
 
-![](https://github.com/saraegregg/Mod13_Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/darkmap.png)
-This is an image of the dark map background with only the major earthquakes and tectonic plates overalys selected.
+![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p3.png)
+
 
 
 
