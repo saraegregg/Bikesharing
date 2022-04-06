@@ -41,18 +41,27 @@ Customer Type: 2.3 million rides in the month of August 2019 with 81% of riders 
 Highest traffic hours are from four pm through 7 pm
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p3.png)
 
-
+The length of Citi Bike rentals
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p4.png)
+
+The length of Citi Bike rentals by gender
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p5.png)
+
+Peak bike usage by weekday hour
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p6.png)
+
+Peak bike usage by weekday hour and by gender
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p7.png)
+
+Bike usage by weekday and by gender, grouped by subscriber and single users
 ![](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p8.png)
 
-
-
 ## Summary
-On a high-level summary, it can be said that most riders are male, most of the riders use a subscription and during the weekday, most of the usage occurs in the morning hours and late afternoon.  As for male to female usage and trip durations, it can be said that they are relatively the same, but due to the riders being mostly male, they stand out the most.  Also, most of the trips have a short duration of about 5-6 minutes.
+Main take-aways from this analysis are:
+     - most riders are male, 
+     - most of the riders use a subscription and rent Citi Bikes during the weekday,
+     - most of the usage occurs in the morning hours and late afternoon,
+     - male and female gender groups' usage and trip durations are similar,
+     - most of the trips have a short duration of about 5-6 minutes.
 
-- Two additional visualizations suggested for future analysis are:
-    - Subscription comparison between Males and Females
-    - Top 10 Stations where most trips start and/or end.
+I would recommend that analysis of subscription rates among the gender groups to better understand the groups of people that most use the Citi Bike service in New York City, as well as similar analysis of different months to determine trends across the year. It would be interesting to expand the dataset to determine if there is a correlation between the weather and the ridership and to answer the questions: does bike usage by subscribers for commuting drop darastically in the winter months or in inclement weather? Could a bikesharing company in Iowa be profitable yearround?
