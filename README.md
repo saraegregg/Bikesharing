@@ -29,7 +29,7 @@ Continue to develop your analysis and visualizations by completing the following
 - Visual Studio Code 1.63.2
 
 ### Challenge Results
-Below are screenshots of my Tableau story analysis, which is linked [here](https://public.tableau.com/views/NYCCitiBikeAugustAnalysis_16492034190480/NYCCitiBikeAugustAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
+Below are screenshots of my Tableau story analysis, which is linked [here](https://public.tableau.com/views/NYCCitiBikeAugustAnalysis_16492034190480/NYCCitiBikeAugustAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link).
 ## NYC Citi Bike Analysis Screenshots: 
 
 ![NYC City Bike Starting Locations: Grouping of all trip starting locations](https://github.com/saraegregg/Mod14_Bikesharing/blob/main/images/story_p1.png)
